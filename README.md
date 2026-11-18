@@ -2,7 +2,7 @@
 
 Building AI course project
 
-And intelligent personal assistant designed to connect your digital and physical world.
+An intelligent personal assistant designed to connect your digital and physical world.
 
 ##Summary
 
@@ -13,7 +13,7 @@ The goal is simple: Lets use current technology to get back the free time we nev
 
 ##Background
 
-Modern technology provides us with countless of programs, tools, apps, games, systems, but managing all of them while drowning in (school)work can be time-consuming.
+Modern technology provides us with countless programs, tools, apps, games, systems, but managing all of them while drowning in (school)work can be time-consuming.
 
 Although technology was designed to make life easier, it can sometimes make more work instead.
 
@@ -23,7 +23,7 @@ We have already seen great examples of this type of Artificial Intelligence, for
 
 ##Problems this idea aims to solve
 
-- Fragmented Technology: People use many different applications and devices that don't always communicate with eachother.
+- Fragmented Technology: People use many different applications and devices that don't always communicate with each other.
 - Time Management: Everyday digital tasks that consume time that could be spent elsewhere.
 - Information Overload: We live in a world with constant info consumption habits.
 - Repetitive Activities: If you ever had to send out dozens of similar messages, but don't have time to do so, then you know what I am talking about.
@@ -31,12 +31,12 @@ We have already seen great examples of this type of Artificial Intelligence, for
 
 ##Personalization
 
-As mentioned earlier, modern world applications that make use of digital assistants in the form of Artificial Intelligence don't attach much importance to User Personalization and tend to consider their own financial intrests as a higher priority.
+As mentioned earlier, modern world applications that make use of digital assistants in the form of Artificial Intelligence don't attach much importance to User Personalization and tend to consider their own financial interests as a higher priority.
 This instance resolves that problem, giving the user a choice of safety when it comes to personal data by saving the personal information locally to the user's preferred disc or computer,
 which gives the user a peace of mind without having to worry about random data theft and random server breaches that may put their personal information at risk.
 But if they are brave enough, they can always choose the "infinity" option which lets the AI store their personal information into data centers.
 
-Another safety measure is that the AI can turn the information into scribbled words and numbers which only it know how to decypher.
+Another layer of protection would involve encrypting stored information using established cryptographic standards, ensuring that access to personal data remains under the user's control.
 
 ##How the AI actually functions
 
