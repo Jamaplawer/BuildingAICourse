@@ -4,14 +4,14 @@ Building AI course project
 
 An intelligent personal assistant designed to connect your digital and physical world.
 
-##Summary
+## Summary
 
 It is a personal AI ecosystem designed to connect computers, smartphones, smart homes and other devices into one intelligent system.
 It assists with everyday tasks, manages information, learns user preferences, and automates repetitive activities, giving people more time to focus on what truly matters.
 
 The goal is simple: Lets use current technology to get back the free time we never had.
 
-##Background
+## Background
 
 Modern technology provides us with countless programs, tools, apps, games, systems, but managing all of them while drowning in (school)work can be time-consuming.
 
@@ -21,7 +21,7 @@ This (nameless) "idea" aims to solve this problem by introducing a unified AI as
 
 We have already seen great examples of this type of Artificial Intelligence, for example in the Iron Man movies where there was a fictional artificial intelligence assistant created by Tony Stark.
 
-##Problems this idea aims to solve
+## Problems this idea aims to solve
 
 - Fragmented Technology: People use many different applications and devices that don't always communicate with each other.
 - Time Management: Everyday digital tasks that consume time that could be spent elsewhere.
@@ -29,7 +29,7 @@ We have already seen great examples of this type of Artificial Intelligence, for
 - Repetitive Activities: If you ever had to send out dozens of similar messages, but don't have time to do so, then you know what I am talking about.
 - Lack of Personalization: Most digital assistants have limited understanding of individual preferences and routines.
 
-##Personalization
+## Personalization
 
 As mentioned earlier, modern world applications that make use of digital assistants in the form of Artificial Intelligence don't attach much importance to User Personalization and tend to consider their own financial interests as a higher priority.
 This instance resolves that problem, giving the user a choice of safety when it comes to personal data by saving the personal information locally to the user's preferred disc or computer,
@@ -38,7 +38,7 @@ But if they are brave enough, they can always choose the "infinity" option which
 
 Another layer of protection would involve encrypting stored information using established cryptographic standards, ensuring that access to personal data remains under the user's control.
 
-##How the AI actually functions
+## How the AI actually functions
 
 1. Computer integration
    It would connect to the user's device and assist with digital activities in real time.
@@ -84,7 +84,7 @@ Another layer of protection would involve encrypting stored information using es
     * Provide reminders based on relevant information
     * Maintain synchronized personal information across devices
   
-##AI methods
+## AI methods
    Technology and its purpose
    * Large Language Models (LLMs) - Conversations, reasoning and problem-solving
    * Natural Language Processing (NLP) - Understanding written language and instructions
@@ -94,7 +94,7 @@ Another layer of protection would involve encrypting stored information using es
    * Machine Learning - Learning patterns and user preferences
    * Recommendation Systems - Suggesting relevant actions and information
    * Automation Systems - Performing approved tasks across applications
-##Data Sources
+## Data Sources
   It could take information from, based on user preferences:
   * Local computer files
   * Connected email accounts
@@ -106,7 +106,7 @@ Another layer of protection would involve encrypting stored information using es
   * Previous conversations and approved memories
 
 
-##Technical Challenges
+## Technical Challenges
 
 Integration: Different applications, operating systems and devices use different technologies and interfaces.
 Performance: Running multiple AI systems simultaneously could require considerable computing resources.
@@ -114,7 +114,7 @@ Accuracy: AI models can misunderstand instructions or provide incorrect informat
 Compatibility: Not every device or application provides access for external integrations.
 Cost: Advanced AI models, computing resources and cloud storage can become expensive.
 
-##Security and Ethical Challenges
+## Security and Ethical Challenges
 
  - Privacy: The system could have access to highly personal information.
  - Unauthorized access: Access to computers and smart home devices must be properly secured.
@@ -122,7 +122,7 @@ Cost: Advanced AI models, computing resources and cloud storage can become expen
  - Transparency: Users should understand what information is collected and how it is used.
  - Reliability: Important actions should have appropriate confirmation and safeguards.
 
-##Acknowledgments
+## Acknowledgments
 
 The concept of this AI is inspired by:
 
