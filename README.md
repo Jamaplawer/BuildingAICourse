@@ -1,4 +1,4 @@
-##Personal AI Ecosystem
+# Personal AI Ecosystem
 
 Building AI course project
 
